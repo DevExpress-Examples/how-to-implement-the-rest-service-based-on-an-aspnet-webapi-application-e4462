@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebApiConfig.cs](./CS/MyRestService/App_Start/WebApiConfig.cs) (VB: [WebApiConfig.vb](./VB/MyRestService/App_Start/WebApiConfig.vb))
+* [Category.cs](./CS/MyRestService/Category.cs) (VB: [Category.vb](./VB/MyRestService/Category.vb))
+* **[CategoriesController.cs](./CS/MyRestService/Controllers/CategoriesController.cs) (VB: [CategoriesController.vb](./VB/MyRestService/Controllers/CategoriesController.vb))**
+* [QueryHelper.cs](./CS/MyRestService/Controllers/QueryHelper.cs) (VB: [QueryHelper.vb](./VB/MyRestService/Controllers/QueryHelper.vb))
+* [Global.asax.cs](./CS/MyRestService/Global.asax.cs) (VB: [Global.asax.vb](./VB/MyRestService/Global.asax.vb))
+<!-- default file list end -->
 # How to implement the Rest service based on an ASP.NET WebAPI application
 
 
