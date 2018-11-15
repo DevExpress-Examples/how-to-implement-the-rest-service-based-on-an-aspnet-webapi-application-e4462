@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FilterConfig.cs](./CS/MyRestService/App_Start/FilterConfig.cs)
+* [WebApiConfig.cs](./CS/MyRestService/App_Start/WebApiConfig.cs)
+* [Category.cs](./CS/MyRestService/Category.cs)
+* [CategoriesController.cs](./CS/MyRestService/Controllers/CategoriesController.cs)
+* [Global.asax.cs](./CS/MyRestService/Global.asax.cs)
+<!-- default file list end -->
 # How to implement the Rest service based on an ASP.NET WebAPI application
 
 
