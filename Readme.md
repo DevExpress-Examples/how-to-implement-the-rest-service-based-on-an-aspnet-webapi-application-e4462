@@ -1,3 +1,6 @@
+# How to implement the Rest service based on an ASP.NET WebAPI application
+
+
 <!-- default file list -->
 *Files to look at*:
 
@@ -7,7 +10,7 @@
 * [QueryHelper.cs](./CS/MyRestService/Controllers/QueryHelper.cs) (VB: [QueryHelper.vb](./VB/MyRestService/Controllers/QueryHelper.vb))
 * [Global.asax.cs](./CS/MyRestService/Global.asax.cs) (VB: [Global.asax.vb](./VB/MyRestService/Global.asax.vb))
 <!-- default file list end -->
-# How to implement the Rest service based on an ASP.NET WebAPI application
+
 
 
 <p>This example demonstrates how to <strong>manually</strong> implement the Rest service based on an ASP.NET WebAPI application.</p>
